@@ -106,25 +106,25 @@ A Flask-based web application for securely encrypting and decrypting images usin
 ##  Installation
 
 ### 1. Clone Repository
-```
+
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-```
+
 
 ### 2. Install Dependencies
-```
+
 pip install -r requirements.txt
-```
+
 
 ### 3. Run Application
-```
+
 python app.py
-```
+
 
 ### 4. Open Browser
-```
+
 http://127.0.0.1:5000/
-```
+
 
 
 
