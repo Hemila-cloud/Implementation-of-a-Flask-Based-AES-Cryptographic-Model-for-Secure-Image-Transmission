@@ -65,7 +65,7 @@ A Flask-based web application for securely encrypting and decrypting images usin
 
 
 
-## 🛠️ Tech Stack
+##Tech Stack
 
 - Python  
 - Flask  
